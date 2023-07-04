@@ -1,5 +1,5 @@
 function greeting(params) {
-    let userName = 'Ana'
+    const userName = 'Ana'
     console.log(userName);
 
     if (userName === 'Ana') {
